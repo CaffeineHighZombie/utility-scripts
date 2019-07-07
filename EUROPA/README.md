@@ -7,3 +7,7 @@ An assortment of handy scripts, files, and code chunks for NASA's [EUROPA](https
 
 - [EUROPA building from scratch and installation script](./from_scratch_build_and_install.sh)
 - [Dockerfile for building, installation, and direct usage of the Planner](./Dockerfile)
+    - Pre-built Docker image available at Docker Hub: 
+    ```
+    docker pull caffeinehighzombie/europa-planner
+    ```

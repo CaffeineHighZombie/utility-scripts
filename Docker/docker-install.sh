@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "#### Installing Docker ####"
 #Uninstall old versions
 sudo apt-get remove docker docker-engine docker.io containerd runc
 #Set up the repository
